@@ -2,7 +2,8 @@
 """
 Created on Sat Apr  1 12:26:28 2017
 
-@author: licencep
+@author: M. HILIA
+mohamed.hilia@gmail.com
 """
 
 import myFunctions as mf
