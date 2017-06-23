@@ -2,9 +2,6 @@
 """
 Created on Sat Apr  1 10:38:25 2017
 
-@author: licencep
-"""
-
 # -*- coding: utf-8 -*-
 """
 Created on Sat Mar  4 16:57:32 2017
