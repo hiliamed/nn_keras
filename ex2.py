@@ -2,7 +2,8 @@
 """
 Created on Sat Apr  1 10:26:05 2017
 
-@author: licencep
+@author: M. HILIA
+mohamed.hilia@gmail.com
 """
 from keras.datasets import mnist 
 import matplotlib as mpl
